@@ -167,7 +167,7 @@ VALUES
   
 INSERT INTO SpotifyClone.historico_reproducoes (historico_reproducao, musica_id, usuario_id)
 VALUES
-  ("2020-02-28 10:45:55", 7, 1),
+  ("2020-02-28 10:45:55", 36, 1),
   ("2020-05-02 05:30:35", 25, 1),
   ("2020-03-06 11:22:33", 23, 1),
   ("2020-08-05 08:05:17", 14, 1),

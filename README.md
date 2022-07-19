@@ -7,7 +7,7 @@ Projeto realizado no módulo de Back-end durante o curso de Desenvolvimento Web 
 
 ## Descrição
 
-Neste projeto foi fornecido pela [Trybe](https://www.betrybe.com/) uma [tabela não normalizada](./SpotifyClone-Non-NormalizedTable.xlsx) para ser normalizada na `terceira forma normal` e populada e então executar queries com o MySQL com o intuito de encontrar as informações solicitadas.
+Neste projeto foi fornecido pela [Trybe](https://www.betrybe.com/) uma [tabela não normalizada](./SpotifyClone-Non-NormalizedTable.pdf) para ser normalizada na `terceira forma normal` e populada e então executar queries com o MySQL com o intuito de encontrar as informações solicitadas.
 
 
 ## 👩‍💻 Tecnologias Utilizadas
@@ -38,7 +38,7 @@ Neste projeto foi fornecido pela [Trybe](https://www.betrybe.com/) uma [tabela n
 
 ## 🗄️ Fornecido pela [Trybe](https://www.betrybe.com/)
 
-- [Tabela não normalizada:](./SpotifyClone-Non-NormalizedTable.xlsx)
+- [Tabela não normalizada:](./SpotifyClone-Non-NormalizedTable.pdf)
 
 ![Tabela não normalizada "Spotify Clone"](./images/non-normalized-tables.png)
 

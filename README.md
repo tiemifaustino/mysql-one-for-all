@@ -28,7 +28,7 @@ Neste projeto foi fornecido pela [Trybe](https://www.betrybe.com/) uma [tabela n
 
 ## 📂 Arquivos desenvolvidos
 
-- [Tabela Normalizada](./Tabela-normalizada-Tiemi-Faustino.xlsx)
+- [Tabela Normalizada](./Tabela-normalizada-Tiemi-Faustino.pdf)
 
 - Arquivo `desafio1.sql` com o código de inserção e população da tabela normalizada no MySQL
 

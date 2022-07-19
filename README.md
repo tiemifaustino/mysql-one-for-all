@@ -42,4 +42,4 @@ Neste projeto foi fornecido pela [Trybe](https://www.betrybe.com/) uma [tabela n
 
 ![Tabela não normalizada "Spotify Clone"](./images/non-normalized-tables.png)
 
-- Arquivo docker-compose.yml
+- Arquivo `docker-compose.yml`
